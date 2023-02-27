@@ -1,0 +1,5 @@
+termcolor
+Flask-Script
+docker-py
+yapsy
+python-dateutil

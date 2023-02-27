@@ -1,0 +1,16 @@
+{
+  "name": "docker-dbaas",
+  "version": "1.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-css": "master",
+    "jquery": "~2.0.3"
+  },
+  "private": true
+}
